@@ -16,7 +16,7 @@
 <div>
   <a href="https://instagram.com/felipejmcastro" ><img align="center" src="https://img.shields.io/badge/felipejmcastro-05122A?style=flat&logo=instagram" alt="instagram"/></a>
  	<a href = "mailto:felipejose.vila1@gmail.com" ><img align="center" src="https://img.shields.io/badge/felipecastro-05122A?style=flat&logo=gmail" 
-  <a href="https://www.linkedin.com/in/felipe-castro-66918a227/" ><img align="center" src="https://img.shields.io/badge/felipecastro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/felipe-castro" ><img align="center" src="https://img.shields.io/badge/felipecastro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </div>
  
   
