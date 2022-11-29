@@ -15,7 +15,7 @@ jobs:
         id: dragon-gif
         with:
           github_user_name: felipejmcastro
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-dragon.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
