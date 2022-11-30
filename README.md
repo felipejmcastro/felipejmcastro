@@ -1,5 +1,9 @@
 ### Opa! Eu sou o Felipe Castro, estudante de programação e tecnologia.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111576084/204677370-c0890639-f75e-4771-bae9-9b06650f05fb.png"
+</div>
+
 ##
 
 
